@@ -18,4 +18,5 @@ This project is a simple responsive landing page created using HTML and CSS.
 - Media Queries
 
 ## Author
-Neelufarnisha A
+Neelufar Nisha A
+
